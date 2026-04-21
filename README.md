@@ -16,6 +16,6 @@
 git clone https://github.com/vladyslavmartovytskyi-eng/bse-lr1-martovytskyi.git
 cd bse-lr1-martovytskyi
 python main.py
-
+редагую ріад мі 
 ## Ліцензія
 MIT License
